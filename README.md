@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pagimos&theme=highcontrast&border_radius=20&card_width=600" alt="GitHub Streak" /></a>
 </p>
+
 # 👋 Hey there! I'm Pagimos
 
 Welcome to my GitHub space! I'm a passionate Full Stack Developer and the brain behind <a href="https://digitalbitwave.com" target="_blank">Digital Bitwave</a>, a creative agency that specializes in crafting bespoke digital experiences. From websites to e-commerce solutions on WordPress and Shopify, to strategic marketing, we've got the digital landscape covered.
