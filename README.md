@@ -10,7 +10,7 @@ Welcome to my GitHub space! I'm a passionate Full Stack Developer and the brain 
 - 🌱 I’m deeply entrenched in the world of **React** and love exploring new technologies that enhance web development.
 - 👯 I'm looking to collaborate on **MERN stack** projects, and anything innovative within the realms of **WordPress**, **Shopify**, and **Digital Marketing**.
 - 💬 Ask me about **React**, **MERN stack development**, **WordPress**, **Shopify e-commerce**, and **digital marketing strategies**.
-- 📫 How to reach me: contact@digitalbitwave.com
+- 📫 How to reach me: contact@pagimos.com
 
 ## 📞 Let's Connect!
 
