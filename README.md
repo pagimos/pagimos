@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pagimos
 
-I’m a developer focused on building practical digital tools — from automation and bots to web applications and custom software.
+I’m a developer focused on building practical digital tools, from automation and bots to web applications and custom software.
 
 Most of my work revolves around solving real problems with code, creating systems that save time, automate tasks, and improve workflows.
 
