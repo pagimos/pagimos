@@ -1,19 +1,33 @@
+# 👋 Hi, I'm Pagimos
 
+I’m a developer focused on building practical digital tools — from automation and bots to web applications and custom software.
 
-# 👋 Hey there! I'm Pagimos
+Most of my work revolves around solving real problems with code, creating systems that save time, automate tasks, and improve workflows.
 
-Welcome to my GitHub space! I'm a passionate Full Stack Developer and the brain behind <a href="https://digitalbitwave.com" target="_blank">Digital Bitwave</a>, a creative agency that specializes in crafting bespoke digital experiences. From websites to e-commerce solutions on WordPress and Shopify, to strategic marketing, we've got the digital landscape covered.
+## 🚀 What I Work On
 
-## 🚀 About Me
+- ⚙️ **Automation & Bots** – building systems that automate repetitive tasks
+- 💻 **Software & Tools** – developing practical applications and utilities
+- 🌐 **Web Applications** – creating fast, modern web platforms
+- 🎮 **FiveM Scripts** – building custom scripts and systems for FiveM servers
 
-- 🔭 I'm currently working on <a href="https://stockivia.com" target="_blank">Stockivia</a>, an ambitious project aimed at revolutionizing the way businesses manage inventory and sales.
-- 🌱 I’m deeply entrenched in the world of **React** and love exploring new technologies that enhance web development.
-- 👯 I'm looking to collaborate on **MERN stack** projects, and anything innovative within the realms of **WordPress**, **Shopify**, and **Digital Marketing**.
-- 💬 Ask me about **React**, **MERN stack development**, **WordPress**, **Shopify e-commerce**, and **digital marketing strategies**.
-- 📫 How to reach me: contact@pagimos.com
+## 🧠 Current Focus
 
-## 📞 Let's Connect!
+I enjoy working on projects that combine **automation, software development, and problem solving**.  
+Recently I've been developing tools, scripts, and systems that help communities and businesses run more efficiently.
 
-I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pagimos/), [Twitter](https://twitter.com/pagimos), or via my website <a href="https://digitalbitwave.com" target="_blank">Digital Bitwave</a>.
+## 🌍 Website
 
-Let's make something amazing together!
+You can find more about my work here:
+
+**https://pagimos.com**
+
+## 📫 Contact
+
+If you want to collaborate, discuss a project, or just connect:
+
+**contact@pagimos.com**
+
+---
+
+*"Build tools that solve real problems."*
